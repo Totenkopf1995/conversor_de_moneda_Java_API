@@ -36,8 +36,4 @@ Este es un programa en Java que permite convertir un valor de pesos colombianos 
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna mejora que sugerir, no dudes en abrir un issue o enviar un pull request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+¡Las contribuciones son bienvenidas! Si encuentras algún error o tienes alguna mejora que sugerir.
